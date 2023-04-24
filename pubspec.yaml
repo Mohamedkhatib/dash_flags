@@ -8,13 +8,13 @@ screenshots:
     path: doc/assets/animated_example.webp
 
 environment:
-  sdk: '>=2.19.0 <4.0.0'
+  sdk: '>=2.17.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^2.0.1
+  flutter_svg:
 
 dev_dependencies:
   flutter_test:
